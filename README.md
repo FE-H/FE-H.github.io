@@ -1,2 +1,4 @@
 # FE-H.github.io
-Resume for Ho Fook Eng
+Online Portfolio for Ho Fook Eng.
+
+Reachable via https://fe-h.github.io/
